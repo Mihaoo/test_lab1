@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<masini>
+    <caroserie idCaroserie="001" numeCaroserie="sedan">
+        <masina idMasina="0001">
+            <Marca>BMW</Marca>
+            <Model>M5</Model>
+            <An>2020</An>
+            <disponibilitate>true</disponibilitate>
+            <completatii>
+                <completatie>Basic</completatie>
+                <completatie>Lux</completatie>
+                <completatie>dyamond</completatie>
+            </completatii>
+        </masina>
+        <masina idMasina="0002">
+            <Marca>Mercedes</Marca>
+            <Model>S Class</Model>
+            <An>2021</An>
+            <disponibilitate>true</disponibilitate>
+            <completatii>
+                <completatie>Basic</completatie>
+                <completatie>Basic+</completatie>
+                <completatie>Luxury</completatie>
+            </completatii>
+        </masina>
+    </caroserie>
+    <caroserie idCaroserie="002" numeCaroserie="SUV">
+        <masina idMasina="0003">
+            <Marca>BMW</Marca>
+            <Model>X6 M</Model>
+            <An>2019</An>
+            <disponibilitate>true</disponibilitate>
+            <completatii>
+                <completatie>Basic</completatie>
+                <completatie>Medium</completatie>
+                <completatie>Lux+</completatie>
+            </completatii>
+        </masina>
+    </caroserie>
+</masini>
